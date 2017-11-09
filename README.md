@@ -1,3 +1,4 @@
 # fingerIdentify
 finger identity
-这里要怎么写使用注意
+博客链接
+http://blog.csdn.net/sxh_android/article/details/78486089
